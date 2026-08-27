@@ -30,6 +30,7 @@ Desenvolvedor freelancer e estudante de Ciência da Computação, construindo pr
 | **[Adega Cabronis](https://github.com/zagojav/adega-cabronis)** | Sistema mobile-first de controle de estoque para adega de bairro |
 | **[FININTELL](https://github.com/zagojav/finintell)** | Aplicação de finanças pessoais com React, Firebase e IA |
 | **[Portfólio](https://github.com/zagojav/portfolio)** | Site pessoal em Next.js |
+| **[ZCodeShopping](https://github.com/zagojav/ZcodeShopping)** | E-commerce de tecnologia com Astro e Typescript | 
 
 <div align="center">
 
